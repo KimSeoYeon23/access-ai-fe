@@ -1,7 +1,9 @@
+import { Brain } from "lucide-react";
+
 const MainPage = () => {
   return (
-    <div>
-      <h1>Main Page</h1>
+    <div className="flex items-center justify-center h-screen">
+      main
     </div>
   )
 }
